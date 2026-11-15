@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+__pycache__/
+.venv/
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Build output
+dist/
+build/
+artifacts/
+cache/
+coverage/
+
+# OS and editor
+.DS_Store
+.vscode/
+.idea/
